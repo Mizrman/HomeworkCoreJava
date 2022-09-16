@@ -7,9 +7,5 @@ public abstract class MedicalSchool extends NursingSchool { // One inheritance i
 		System.out.println("Something");
 
 	}
-	
-	public MedicalSchool() {
-		
-	}
 
 }

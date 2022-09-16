@@ -1,8 +1,9 @@
 package hw9Abstraction;
 
-public class ColumbiaUniversity extends MedicalSchool { /*A regular class can inherit one regular class or an abstract
-														 class using 'extends' keyword
-														 */ 
+public class ColumbiaUniversity extends MedicalSchool { /*
+														 * A regular class can inherit one regular class or an abstract
+														 * class using 'extends' keyword
+														 */
 
 	// public abstract void chemistry();---> Abstract method can not be processed
 	// without making this regular class into an Abstract class.
