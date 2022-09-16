@@ -9,15 +9,6 @@ public class TestFamilyClass {
 		d1.daughter();
 		System.out.println("~~~~~~~~~~~~~~~~~~~~");
 		d1.daughterInfo("January", 5);
-		//System.out.println("<^<^<^<^<^<^<^>");
-
-		/*
-		 * Father f = new Father(); System.out.println("<-------------->"); Father f1 =
-		 * new Father("Mohammed", 70, 'M', true);
-		 * System.out.println("-_-_-_-_-_-_-_-_-_-_-_-_"); f1.father();
-		 * System.out.println("----------------------"); f1.fatherInfo("Mohammed", 70,
-		 * 'M', true);
-		 */
 
 	}
 
